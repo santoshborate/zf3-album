@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![Overview of Application] (https://github.com/santoshborate/zf3-album/blob/master/zf3-album.png)
+![Overview of Application] (/../master/zf3-album.png)
 
 This is a skeleton application using the Zend Framework MVC layer and module
 systems. This application is meant to be used as a starting place for those
